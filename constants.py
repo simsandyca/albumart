@@ -1,0 +1,9 @@
+SCREEN_WIDTH = 1280
+SCREEN_HEIGHT = 720
+IMAGE_SIZE=800
+#DURATION = 10          # Duration of the recording in seconds
+SAMPLE_RATE = 44100    # Standard CD quality sample rate
+CHUNK_INCREMENT = 5
+MAX_CHUNK_DURATION = 30
+MIN_CHUNK_DURATION = 5
+CHANNELS = 1
